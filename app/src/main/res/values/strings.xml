@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebMonitor</string>
+    <string name="shared_preferences">Data</string>
+</resources>
